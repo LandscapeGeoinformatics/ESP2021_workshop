@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1
+  - r-tidyverse
+  - r-terra
+  - r-tmap
+  - r-raster
+  - r-sf
+  - r-viridis
+  - r-rgdal
+  - r-tidyverse
+  - r-tidyr
+  - r-plyr
+  - r-gifski
+  - r-curl
