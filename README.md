@@ -1,8 +1,8 @@
 # ESP Europe 2021 Conference Workshop
 
-Workshop materials for **[ESP Europe 2021 Conference]**(https://www.espconference.org/europe2020) **Net Primary Production (NPP) - estimation of annual anomalies and trends over the last 20 years using R software: a case study in Estonia**.
+Workshop materials for [**ESP Europe 2021 Conference**](https://www.espconference.org/europe2020) **Net Primary Production (NPP) - estimation of annual anomalies and trends over the last 20 years using R software: a case study in Estonia**.
 
-**[Landscape Geoinformatics, UT]**(https://landscape-geoinformatics.ut.ee/home-0)
+[**Landscape Geoinformatics, UT**](https://landscape-geoinformatics.ut.ee/home-0)
 
 - Bruno Montibeller <a href="https://orcid.org/0000-0002-5250-8450"><img src="orcid_icon.png" width="12px" height="12px" /></a>
 
